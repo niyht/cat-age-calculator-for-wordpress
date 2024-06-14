@@ -1,1 +1,1 @@
-# cat-age-calculator-for-wordpress
+Simple cat age calculator plugin for wordpress
